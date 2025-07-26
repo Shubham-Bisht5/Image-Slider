@@ -1,1 +1,1 @@
-# Image-Slider
+# This is an Image SLider Project.
